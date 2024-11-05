@@ -5,9 +5,9 @@ const Navbar = () => {
   return (
 
 
-    <nav className="mt-8">
+    <nav className="pt-8 bg-[#F7F7F7]">
       	<div className="border border-[#9538E2] p-1 w-11/12 mx-auto rounded-2xl">
-        <div className=" h-[594px] mx-auto bg-[#9538E2] rounded-2xl">
+        <div className=" h-[650px] mx-auto bg-[#9538E2] rounded-2xl">
         <div className="flex justify-between px-16 py-4 items-center">
             <div className="">
             <Link to="/" className="btn btn-ghost normal-case text-xl text-white">Gadget Heaven</Link>
@@ -62,17 +62,24 @@ const Navbar = () => {
           </div>
 
           <div className="w-8/12 mx-auto text-center text-white my-8">
-            <h1 className="text-5xl font-bold mb-8">Upgrade Your Tech Accessorize with <br /><span>Gadget Heaven Accessories</span></h1>
+            <div className="my-1">
+              <h1 className="text-5xl font-bold mb-8">Upgrade Your Tech Accessorize with</h1>
+              <h1 className="text-5xl font-bold mb-8">Gadget Heaven Accessories</h1>
+            </div>
             <p className="font-semibold">Explore the latest gadgets that will take your experience to the next level. From smart devices to the coolest accessories, we have it all!</p>
             <button className="btn btn-outline my-8 bg-white border-none rounded-full text-[#9538E2]">Shop Now</button>
           </div>
 
         </div>
         </div>
-
-        <div className="border border-white p-4 w-8/12 mx-auto rounded-lg mb-4 relative bottom-52">
-          <img className="w-[1000px] h-[511px] mx-auto rounded-lg object-cover" src="https://i.ibb.co/tX0q7t7/banner.jpg" alt="" />
+        <div className="border border-white p-4 w-8/12 mx-auto rounded-lg -mt-52">
+          <img
+            className="w-full h-[511px] mx-auto rounded-lg object-cover"
+            src="https://i.ibb.co/tX0q7t7/banner.jpg"
+            alt="Banner"
+          />
         </div>
+
     </nav>
   );
 };

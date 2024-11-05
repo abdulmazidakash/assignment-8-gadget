@@ -4,7 +4,7 @@ const ProductDetail = () => {
   const product = useLoaderData();
 
   return (
-    <div className="card w-96 bg-base-100 shadow-xl mx-auto">
+    <div className="card w-96 bg-[#F7F7F7] shadow-xl mx-auto">
       <figure><img src={product.product_image} alt={product.product_title} /></figure>
       <div className="card-body">
         <h2 className="card-title">{product.product_title}</h2>

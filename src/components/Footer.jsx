@@ -1,13 +1,7 @@
 const Footer = () => {
 	return (
-	//   <footer className="footer p-10 bg-base-200 text-base-content">
-	// 	<div>
-	// 	  <h2 className="footer-title">About</h2>
-	// 	  <p>GadgetHeaven - Your go-to destination for the latest gadgets.</p>
-	// 	</div>
-	//   </footer>
 
-	<footer className=" bg-white text-black shadow-xl mt-4 p-20">
+	<footer className=" bg-white text-black shadow-lg p-20">
 
 		<div className="w-5/12 mx-auto text-center">
 			<h3 className="text-3xl font-bold">Gadget Heaven</h3>

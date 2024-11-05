@@ -1,9 +1,9 @@
 [
 	{
 	  "product_id": 1,
-	  "product_title": "Smartphone",
-	  "product_image": "https://via.placeholder.com/150",
-	  "category": "phones",
+	  "product_title": "Dell XPS 13",
+	  "product_image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/gray/notebook-xps-13-9345-t-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3988&hei=2361&qlt=100,1&resMode=sharp2&size=3988,2361&chrss=full&imwidth=5000",
+	  "category": "laptops",
 	  "price": 500,
 	  "description": "Latest smartphone with advanced features.",
 	  "specification": [],
@@ -12,9 +12,146 @@
 	},
 	{
 	  "product_id": 2,
-	  "product_title": "Laptop",
-	  "product_image": "https://via.placeholder.com/150",
-	  "category": "computers",
+	  "product_title": "Dell XPS 13",
+	  "product_image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/gray/notebook-xps-13-9345-t-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3988&hei=2361&qlt=100,1&resMode=sharp2&size=3988,2361&chrss=full&imwidth=5000",
+	  "category": "laptops",
+	  "price": 500,
+	  "description": "Latest smartphone with advanced features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.5
+	},
+	{
+	  "product_id": 3,
+	  "product_title": "Dell XPS 13",
+	  "product_image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/gray/notebook-xps-13-9345-t-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3988&hei=2361&qlt=100,1&resMode=sharp2&size=3988,2361&chrss=full&imwidth=5000",
+	  "category": "laptops",
+	  "price": 500,
+	  "description": "Latest smartphone with advanced features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.5
+	},
+
+
+	{
+	  "product_id": 4,
+	  "product_title": "Samsung Galaxy A15",
+	  "product_image": "https://www.sammobile.com/wp-content/uploads/2023/09/Galaxy-A15-leak-1.jpg",
+	  "category": "phones",
+	  "price": 400,
+	  "description": "Latest smartphone with advanced features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.5
+	},
+	{
+	  "product_id": 5,
+	  "product_title": "Samsung Galaxy A15",
+	  "product_image": "https://www.sammobile.com/wp-content/uploads/2023/09/Galaxy-A15-leak-1.jpg",
+	  "category": "phones",
+	  "price": 500,
+	  "description": "Latest smartphone with advanced features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.5
+	},
+	
+	{
+	  "product_id": 6,
+	  "product_title": "Smart Watch",
+	  "product_image": "https://images-cdn.ubuy.co.in/633b12488d2edc65997f4c20-smart-watch-bluetooth-smartwatch-touch.jpg",
+	  "category": "smartwatches",
+	  "price": 500,
+	  "description": "Latest smartphone with advanced features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.5
+	},
+	{
+	  "product_id": 7,
+	  "product_title": "Smart Watch",
+	  "product_image": "https://images-cdn.ubuy.co.in/633b12488d2edc65997f4c20-smart-watch-bluetooth-smartwatch-touch.jpg",
+	  "category": "smartwatches",
+	  "price": 500,
+	  "description": "Latest smartphone with advanced features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.5
+	},
+	{
+	  "product_id": 8,
+	  "product_title": "Smart Watch",
+	  "product_image": "https://images-cdn.ubuy.co.in/633b12488d2edc65997f4c20-smart-watch-bluetooth-smartwatch-touch.jpg",
+	  "category": "smartwatches",
+	  "price": 900,
+	  "description": "Latest smartphone with advanced features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.5
+	},
+	
+	
+	{
+	  "product_id": 9,
+	  "product_title": "Earbuds",
+	  "product_image": "https://diamu.com.bd/wp-content/uploads/2024/09/QCY-Crossky-C30-Open-Ear-Clip-Earbuds-280x280.jpg",
+	  "category": "accessories",
+	  "price": 300,
+	  "description": "Latest smartphone with advanced features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.5
+	},
+	{
+	  "product_id": 10,
+	  "product_title": "Earbuds",
+	  "product_image": "https://diamu.com.bd/wp-content/uploads/2024/09/QCY-Crossky-C30-Open-Ear-Clip-Earbuds-280x280.jpg",
+	  "category": "accessories",
+	  "price": 900,
+	  "description": "Latest smartphone with advanced features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.5
+	},
+	{
+	  "product_id": 11,
+	  "product_title": "Earbuds",
+	  "product_image": "https://diamu.com.bd/wp-content/uploads/2024/09/QCY-Crossky-C30-Open-Ear-Clip-Earbuds-280x280.jpg",
+	  "category": "accessories",
+	  "price": 700,
+	  "description": "Latest smartphone with advanced features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.5
+	},
+	{
+	  "product_id": 12,
+	  "product_title": "MacBook",
+	  "product_image": "https://www.apple.com/v/macbook-pro-13/p/images/overview/hero_endframe__bsza6x4fldiq_large_2x.jpg",
+	  "category": "macbook",
+	  "price": 1500,
+	  "description": "High-performance laptop for professionals.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.7
+	},
+	{
+	  "product_id": 13,
+	  "product_title": "MacBook",
+	  "product_image": "https://www.apple.com/v/macbook-pro-13/p/images/overview/hero_endframe__bsza6x4fldiq_large_2x.jpg",
+	  "category": "macbook",
+	  "price": 1300,
+	  "description": "High-performance laptop for professionals.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.7
+	},
+	{
+	  "product_id": 14,
+	  "product_title": "MacBook",
+	  "product_image": "https://www.apple.com/v/macbook-pro-13/p/images/overview/hero_endframe__bsza6x4fldiq_large_2x.jpg",
+	  "category": "macbook",
 	  "price": 1200,
 	  "description": "High-performance laptop for professionals.",
 	  "specification": [],
@@ -22,15 +159,49 @@
 	  "rating": 4.7
 	},
 	{
-	  "product_id": 3,
-	  "product_title": "Smart Watch",
-	  "product_image": "https://via.placeholder.com/150",
-	  "category": "smart watches",
+	  "product_id": 15,
+	  "product_title": "Iphone",
+	  "product_image": "https://cdn.britannica.com/09/241709-050-149181B1/apple-iphone-11-2019.jpg",
+	  "category": "iphone",
+	  "price": 450,
+	  "description": "Stylish smartwatch with health tracking features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.2
+	},
+	{
+	  "product_id": 16,
+	  "product_title": "Iphone",
+	  "product_image": "https://cdn.britannica.com/09/241709-050-149181B1/apple-iphone-11-2019.jpg",
+	  "category": "iphone",
 	  "price": 250,
 	  "description": "Stylish smartwatch with health tracking features.",
 	  "specification": [],
 	  "availability": true,
 	  "rating": 4.2
-	}
+	},
+	{
+	  "product_id": 17,
+	  "product_title": "Iphone",
+	  "product_image": "https://cdn.britannica.com/09/241709-050-149181B1/apple-iphone-11-2019.jpg",
+	  "category": "iphone",
+	  "price": 350,
+	  "description": "Stylish smartwatch with health tracking features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.2
+	},
+
+	{
+		"product_id": 18,
+		"product_title": "Samsung Galaxy A15",
+		"product_image": "https://www.sammobile.com/wp-content/uploads/2023/09/Galaxy-A15-leak-1.jpg",
+		"category": "phones",
+		"price": 200,
+		"description": "Latest smartphone with advanced features.",
+		"specification": [],
+		"availability": true,
+		"rating": 4.5
+	  }
   ]
   
