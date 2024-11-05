@@ -7,7 +7,7 @@ const Footer = () => {
 	// 	</div>
 	//   </footer>
 
-	<footer className=" bg-white text-black shadow-sm p-20">
+	<footer className=" bg-white text-black shadow-xl mt-4 p-20">
 
 		<div className="w-5/12 mx-auto text-center">
 			<h3 className="text-3xl font-bold">Gadget Heaven</h3>
