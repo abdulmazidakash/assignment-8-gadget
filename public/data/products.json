@@ -1,0 +1,36 @@
+[
+	{
+	  "product_id": 1,
+	  "product_title": "Smartphone",
+	  "product_image": "https://via.placeholder.com/150",
+	  "category": "phones",
+	  "price": 500,
+	  "description": "Latest smartphone with advanced features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.5
+	},
+	{
+	  "product_id": 2,
+	  "product_title": "Laptop",
+	  "product_image": "https://via.placeholder.com/150",
+	  "category": "computers",
+	  "price": 1200,
+	  "description": "High-performance laptop for professionals.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.7
+	},
+	{
+	  "product_id": 3,
+	  "product_title": "Smart Watch",
+	  "product_image": "https://via.placeholder.com/150",
+	  "category": "smart watches",
+	  "price": 250,
+	  "description": "Stylish smartwatch with health tracking features.",
+	  "specification": [],
+	  "availability": true,
+	  "rating": 4.2
+	}
+  ]
+  
