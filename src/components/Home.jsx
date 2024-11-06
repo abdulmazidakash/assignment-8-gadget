@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div className="w-12/12 mx-auto bg-[#F7F7F7] pb-16">
       <div className="w-11/12 mx-auto">
-      <h3 className="text-3xl font-bold text-center py-16">Explore Cutting-Edge Gadgets</h3>
+      <h3 className="text-3xl font-bold text-center py-12">Explore Cutting-Edge Gadgets</h3>
       
       <div className="grid grid-cols-[250px_1fr] gap-4 my-8">
         {/* Sidebar Section */}

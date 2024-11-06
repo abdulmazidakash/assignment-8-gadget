@@ -4,204 +4,241 @@
 	  "product_title": "Dell XPS 13",
 	  "product_image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/gray/notebook-xps-13-9345-t-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3988&hei=2361&qlt=100,1&resMode=sharp2&size=3988,2361&chrss=full&imwidth=5000",
 	  "category": "laptops",
-	  "price": 500,
-	  "description": "Latest smartphone with advanced features.",
-	  "specification": [],
+	  "price": 1200,
+	  "description": "Sleek, powerful laptop with excellent display and performance.",
+	  "specification": [
+		"13-inch FHD Display",
+		"Intel Core i7",
+		"16GB RAM",
+		"512GB SSD"
+	  ],
 	  "availability": true,
 	  "rating": 4.5
 	},
 	{
 	  "product_id": 2,
-	  "product_title": "Dell XPS 13",
-	  "product_image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/gray/notebook-xps-13-9345-t-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3988&hei=2361&qlt=100,1&resMode=sharp2&size=3988,2361&chrss=full&imwidth=5000",
+	  "product_title": "MacBook Air M2",
+	  "product_image": "https://www.apple.com/v/macbook-pro-13/p/images/overview/hero_endframe__bsza6x4fldiq_large_2x.jpg",
 	  "category": "laptops",
-	  "price": 500,
-	  "description": "Latest smartphone with advanced features.",
-	  "specification": [],
+	  "price": 1300,
+	  "description": "Lightweight, high-performance laptop with M2 chip.",
+	  "specification": [
+		"13.6-inch Retina Display",
+		"Apple M2 Chip",
+		"8GB RAM",
+		"256GB SSD"
+	  ],
 	  "availability": true,
-	  "rating": 4.5
+	  "rating": 4.7
 	},
 	{
 	  "product_id": 3,
-	  "product_title": "Dell XPS 13",
-	  "product_image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/gray/notebook-xps-13-9345-t-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3988&hei=2361&qlt=100,1&resMode=sharp2&size=3988,2361&chrss=full&imwidth=5000",
-	  "category": "laptops",
-	  "price": 500,
-	  "description": "Latest smartphone with advanced features.",
-	  "specification": [],
+	  "product_title": "Samsung Galaxy S21",
+	  "product_image": "https://brotherselectronicsbd.com/image/cache/catalog/demo/product/Samsung/Smartphone/S20%20+/3-800x800.jpg",
+	  "category": "phones",
+	  "price": 800,
+	  "description": "Powerful smartphone with advanced camera capabilities.",
+	  "specification": [
+		"6.2-inch AMOLED Display",
+		"Exynos 2100",
+		"128GB Storage",
+		"Triple Camera"
+	  ],
 	  "availability": true,
-	  "rating": 4.5
+	  "rating": 4.6
 	},
-
-
 	{
 	  "product_id": 4,
-	  "product_title": "Samsung Galaxy A15",
-	  "product_image": "https://www.sammobile.com/wp-content/uploads/2023/09/Galaxy-A15-leak-1.jpg",
+	  "product_title": "Apple iPhone 13",
+	  "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-13-Green-1718.jpg",
 	  "category": "phones",
-	  "price": 400,
-	  "description": "Latest smartphone with advanced features.",
-	  "specification": [],
+	  "price": 900,
+	  "description": "Flagship iPhone with powerful A15 chip and great cameras.",
+	  "specification": [
+		"6.1-inch OLED Display",
+		"Apple A15 Bionic",
+		"128GB Storage",
+		"Dual Camera System"
+	  ],
 	  "availability": true,
-	  "rating": 4.5
+	  "rating": 4.8
 	},
 	{
 	  "product_id": 5,
-	  "product_title": "Samsung Galaxy A15",
-	  "product_image": "https://www.sammobile.com/wp-content/uploads/2023/09/Galaxy-A15-leak-1.jpg",
-	  "category": "phones",
-	  "price": 500,
-	  "description": "Latest smartphone with advanced features.",
-	  "specification": [],
+	  "product_title": "Sony WH-1000XM4",
+	  "product_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5d90d53f-4f7d-47b4-bf04-ae220899339c.__CR0,0,300,225_PT0_SX300_V1___.jpg",
+	  "category": "accessories",
+	  "price": 350,
+	  "description": "Noise-canceling wireless headphones with excellent sound quality.",
+	  "specification": [
+		"Active Noise Cancellation",
+		"30-hour Battery Life",
+		"Bluetooth 5.0",
+		"Touch Controls"
+	  ],
 	  "availability": true,
-	  "rating": 4.5
+	  "rating": 4.7
 	},
-	
 	{
 	  "product_id": 6,
-	  "product_title": "Smart Watch",
-	  "product_image": "https://images-cdn.ubuy.co.in/633b12488d2edc65997f4c20-smart-watch-bluetooth-smartwatch-touch.jpg",
-	  "category": "smartwatches",
-	  "price": 500,
-	  "description": "Latest smartphone with advanced features.",
-	  "specification": [],
+	  "product_title": "Google Pixel 6",
+	  "product_image": "https://media.wired.com/photos/66c60e77081e8351da151f71/191:100/w_1280,c_limit/Google%20Pixel%209%20Pro%20Abstract%20Background%20SOURCE%20Google.jpg",
+	  "category": "phones",
+	  "price": 700,
+	  "description": "Google’s flagship phone with advanced AI capabilities.",
+	  "specification": [
+		"6.4-inch OLED Display",
+		"Google Tensor Chip",
+		"128GB Storage",
+		"Dual Camera System"
+	  ],
 	  "availability": true,
 	  "rating": 4.5
 	},
 	{
 	  "product_id": 7,
-	  "product_title": "Smart Watch",
-	  "product_image": "https://images-cdn.ubuy.co.in/633b12488d2edc65997f4c20-smart-watch-bluetooth-smartwatch-touch.jpg",
-	  "category": "smartwatches",
-	  "price": 500,
-	  "description": "Latest smartphone with advanced features.",
-	  "specification": [],
+	  "product_title": "Samsung Galaxy Tab S7",
+	  "product_image": "https://cdn.mos.cms.futurecdn.net/Jmrz3TezxjxfeTmh4gLaNL.jpg",
+	  "category": "laptops",
+	  "price": 650,
+	  "description": "High-performance tablet with S Pen support.",
+	  "specification": [
+		"11-inch TFT Display",
+		"Snapdragon 865+",
+		"6GB RAM",
+		"128GB Storage"
+	  ],
 	  "availability": true,
-	  "rating": 4.5
+	  "rating": 4.4
 	},
 	{
 	  "product_id": 8,
-	  "product_title": "Smart Watch",
-	  "product_image": "https://images-cdn.ubuy.co.in/633b12488d2edc65997f4c20-smart-watch-bluetooth-smartwatch-touch.jpg",
-	  "category": "smartwatches",
-	  "price": 900,
-	  "description": "Latest smartphone with advanced features.",
-	  "specification": [],
+	  "product_title": "Apple iPad Pro 11",
+	  "product_image": "https://gadgetbd.com/wp-content/uploads/2021/05/ipad-pro-11-select-cell-spacegray-202104_GEO_GB.jpg",
+	  "category": "laptops",
+	  "price": 800,
+	  "description": "Professional tablet with powerful M1 chip.",
+	  "specification": [
+		"11-inch Liquid Retina Display",
+		"Apple M1 Chip",
+		"128GB Storage",
+		"Face ID"
+	  ],
 	  "availability": true,
-	  "rating": 4.5
+	  "rating": 4.9
 	},
-	
-	
 	{
 	  "product_id": 9,
-	  "product_title": "Earbuds",
-	  "product_image": "https://diamu.com.bd/wp-content/uploads/2024/09/QCY-Crossky-C30-Open-Ear-Clip-Earbuds-280x280.jpg",
-	  "category": "accessories",
-	  "price": 300,
-	  "description": "Latest smartphone with advanced features.",
-	  "specification": [],
+	  "product_title": "HP Envy x360",
+	  "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/HP-1-23.jpg",
+	  "category": "laptops",
+	  "price": 1100,
+	  "description": "Versatile 2-in-1 laptop with touch display.",
+	  "specification": [
+		"13.3-inch FHD Touch Display",
+		"Intel Core i5",
+		"8GB RAM",
+		"256GB SSD"
+	  ],
 	  "availability": true,
-	  "rating": 4.5
+	  "rating": 4.4
 	},
 	{
 	  "product_id": 10,
-	  "product_title": "Earbuds",
-	  "product_image": "https://diamu.com.bd/wp-content/uploads/2024/09/QCY-Crossky-C30-Open-Ear-Clip-Earbuds-280x280.jpg",
-	  "category": "accessories",
-	  "price": 900,
-	  "description": "Latest smartphone with advanced features.",
-	  "specification": [],
+	  "product_title": "Samsung Galaxy Watch 4",
+	  "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9gzVR6OdxG0-8aDytxJsGsvrg6NkFRF90uA&s",
+	  "category": "smartwatches",
+	  "price": 300,
+	  "description": "Advanced smartwatch with health monitoring.",
+	  "specification": [
+		"ECG Monitoring",
+		"Blood Oxygen Measurement",
+		"Sleep Tracking",
+		"1.4-inch AMOLED Display"
+	  ],
 	  "availability": true,
-	  "rating": 4.5
+	  "rating": 4.6
 	},
 	{
 	  "product_id": 11,
-	  "product_title": "Earbuds",
-	  "product_image": "https://diamu.com.bd/wp-content/uploads/2024/09/QCY-Crossky-C30-Open-Ear-Clip-Earbuds-280x280.jpg",
-	  "category": "accessories",
-	  "price": 700,
-	  "description": "Latest smartphone with advanced features.",
-	  "specification": [],
+	  "product_title": "Fitbit Charge 5",
+	  "product_image": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/138560-fitness-trackers-news-vs-fitbit-charge-4-vs-charge-3-vs-charge-2-whats-the-difference-image2-vksbet4nal.jpg",
+	  "category": "smartwatches",
+	  "price": 190,
+	  "description": "Fitness tracker with heart rate and GPS.",
+	  "specification": [
+		"Built-in GPS",
+		"Heart Rate Monitoring",
+		"Sleep Tracking",
+		"Stress Management Tools"
+	  ],
 	  "availability": true,
 	  "rating": 4.5
 	},
 	{
 	  "product_id": 12,
-	  "product_title": "MacBook",
-	  "product_image": "https://www.apple.com/v/macbook-pro-13/p/images/overview/hero_endframe__bsza6x4fldiq_large_2x.jpg",
-	  "category": "macbook",
-	  "price": 1500,
-	  "description": "High-performance laptop for professionals.",
-	  "specification": [],
+	  "product_title": "Fitbit Charge 5",
+	  "product_image": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/138560-fitness-trackers-news-vs-fitbit-charge-4-vs-charge-3-vs-charge-2-whats-the-difference-image2-vksbet4nal.jpg",
+	  "category": "smartwatches",
+	  "price": 180,
+	  "description": "Fitness tracker with heart rate and GPS.",
+	  "specification": [
+		"Built-in GPS",
+		"Heart Rate Monitoring",
+		"Sleep Tracking",
+		"Stress Management Tools"
+	  ],
 	  "availability": true,
-	  "rating": 4.7
+	  "rating": 4.5
 	},
 	{
 	  "product_id": 13,
-	  "product_title": "MacBook",
-	  "product_image": "https://www.apple.com/v/macbook-pro-13/p/images/overview/hero_endframe__bsza6x4fldiq_large_2x.jpg",
-	  "category": "macbook",
-	  "price": 1300,
-	  "description": "High-performance laptop for professionals.",
-	  "specification": [],
+	  "product_title": "Microsoft Surface Laptop 4",
+	  "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-1OrvZRkvJUh_TEw2I3CGOj_6Clbltwiyg&s",
+	  "category": "laptops",
+	  "price": 1400,
+	  "description": "Elegant laptop with great performance and battery life.",
+	  "specification": [
+		"13.5-inch PixelSense Display",
+		"AMD Ryzen 5",
+		"8GB RAM",
+		"256GB SSD"
+	  ],
 	  "availability": true,
-	  "rating": 4.7
+	  "rating": 4.3
 	},
 	{
-	  "product_id": 14,
-	  "product_title": "MacBook",
-	  "product_image": "https://www.apple.com/v/macbook-pro-13/p/images/overview/hero_endframe__bsza6x4fldiq_large_2x.jpg",
-	  "category": "macbook",
-	  "price": 1200,
-	  "description": "High-performance laptop for professionals.",
-	  "specification": [],
-	  "availability": true,
-	  "rating": 4.7
-	},
-	{
-	  "product_id": 15,
-	  "product_title": "Iphone",
-	  "product_image": "https://cdn.britannica.com/09/241709-050-149181B1/apple-iphone-11-2019.jpg",
-	  "category": "iphone",
-	  "price": 450,
-	  "description": "Stylish smartwatch with health tracking features.",
-	  "specification": [],
-	  "availability": true,
-	  "rating": 4.2
-	},
-	{
-	  "product_id": 16,
-	  "product_title": "Iphone",
-	  "product_image": "https://cdn.britannica.com/09/241709-050-149181B1/apple-iphone-11-2019.jpg",
-	  "category": "iphone",
-	  "price": 250,
-	  "description": "Stylish smartwatch with health tracking features.",
-	  "specification": [],
-	  "availability": true,
-	  "rating": 4.2
-	},
-	{
-	  "product_id": 17,
-	  "product_title": "Iphone",
-	  "product_image": "https://cdn.britannica.com/09/241709-050-149181B1/apple-iphone-11-2019.jpg",
-	  "category": "iphone",
-	  "price": 350,
-	  "description": "Stylish smartwatch with health tracking features.",
-	  "specification": [],
-	  "availability": true,
-	  "rating": 4.2
-	},
-
-	{
-		"product_id": 18,
-		"product_title": "Samsung Galaxy A15",
-		"product_image": "https://www.sammobile.com/wp-content/uploads/2023/09/Galaxy-A15-leak-1.jpg",
-		"category": "phones",
-		"price": 200,
-		"description": "Latest smartphone with advanced features.",
-		"specification": [],
+		"product_id": 14,
+		"product_title": "Sony WH-1000XM4",
+		"product_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5d90d53f-4f7d-47b4-bf04-ae220899339c.__CR0,0,300,225_PT0_SX300_V1___.jpg",
+		"category": "accessories",
+		"price": 100,
+		"description": "Noise-canceling wireless headphones with excellent sound quality.",
+		"specification": [
+		  "Active Noise Cancellation",
+		  "30-hour Battery Life",
+		  "Bluetooth 5.0",
+		  "Touch Controls"
+		],
 		"availability": true,
-		"rating": 4.5
+		"rating": 4.7
+	  },
+	{
+		"product_id": 15,
+		"product_title": "Sony WH-1000XM4",
+		"product_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5d90d53f-4f7d-47b4-bf04-ae220899339c.__CR0,0,300,225_PT0_SX300_V1___.jpg",
+		"category": "accessories",
+		"price": 300,
+		"description": "Noise-canceling wireless headphones with excellent sound quality.",
+		"specification": [
+		  "Active Noise Cancellation",
+		  "30-hour Battery Life",
+		  "Bluetooth 5.0",
+		  "Touch Controls"
+		],
+		"availability": true,
+		"rating": 4.7
 	  }
+
   ]
   
